@@ -1,6 +1,6 @@
 /.venv
 /encoded_report.csv
 /encoded_report.xlsx
-/hisogram_data.csv
+/histogram_data.csv
 /cleaned_data.csv
 
